@@ -1,5 +1,5 @@
 # Customer-Segmentation-Analysis-KMeans
-Unsupervised ML project segmenting mall customers based on income and spending habits using K-Means clustering to optimize marketing strategy.
+supervised ML project segmenting mall customers based on income and spending habits using K-Means clustering to optimize marketing strategy.
 
 ##  Project Overview
 This project focuses on **Customer Segmentation** using machine learning techniques to group customers based on their purchasing behavior.  
